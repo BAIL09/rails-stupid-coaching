@@ -1,4 +1,10 @@
-
+h1{
+  font-size: large;
+  text-align: center;
+}
+container{
+  text-align: center;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
